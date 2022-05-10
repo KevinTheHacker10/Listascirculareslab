@@ -5,6 +5,9 @@
  */
 package laboratorio1;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
  * @author Kevin The Hacker
@@ -16,7 +19,11 @@ public class Laboratorio1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    
+        List<Integer> Lista = new ArrayList<Integer>();
+        Lista.add(1,2);
         
-    }
+    } 
+}
     
  
